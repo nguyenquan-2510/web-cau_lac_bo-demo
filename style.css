@@ -1,0 +1,38 @@
+body {
+  /* background-color: #800080; */
+  background-color: #00b4ff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#main {
+  /* background-color: purple; */
+  background-color: #00aaff;
+  /* border: 5px solid #00aaff; */
+  border-radius: 10px;
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 5px;
+}
+
+#title,
+#introduction,
+#featured,
+#events,
+#register,
+#contact {
+  background-color: white;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin: 10px 5px;
+  padding: 10px;
+}
