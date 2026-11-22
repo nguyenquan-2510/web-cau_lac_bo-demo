@@ -1,6 +1,6 @@
 body {
   /* background-color: #800080; */
-  background-color: #00b4ff;
+  background-color: #ddebf8;
 }
 
 table {
@@ -35,4 +35,26 @@ td {
   border-radius: 10px;
   margin: 10px 5px;
   padding: 10px;
+}
+
+#title {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+#img-info {
+  text-align: center;
+  font-style: italic;
+}
+
+#img-list {
+  /* Debug only */
+  /* border: 3px solid red; */
+
+  list-style-type: symbols("");
+  padding-left: 0;
 }
