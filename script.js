@@ -12,7 +12,7 @@ COPYRIGHT.onclick = () => {
     text = "Copyright \u00a9 by Nqzz_kagari ( 2026 \u2192 \u221e )"
   }
   else {
-    text = "Never gonna give u up ..."
+    text = "Why did you click this line ?"
   }
   COPYRIGHT.textContent = text
   // window.alert("M gay dung k?")
